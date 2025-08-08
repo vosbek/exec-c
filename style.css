@@ -1,0 +1,22 @@
+:root {
+  --bs-primary: #00263a;
+  --bs-secondary: #fdb515;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #212529;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+.list-group-item {
+  padding-left: 0;
+  border: none;
+}
+
+footer {
+  background-color: var(--bs-primary);
+}
